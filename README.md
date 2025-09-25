@@ -18,16 +18,16 @@ A modern Jetpack Compose-based weekly scheduling UI for Android, featuring dynam
 ## 🖼️ Screenshots
 
 ### 🗓️ Weekly Schedule Screen  
-https://github.com/haileygovender/Scheduleview_jc/blob/main/assets/weekly_schedule_screen.png
+![Weekly Schedule Preview](assets/weekly_schedule_screen.png)
 
 ### 📆 Top Bar with Navigation  
-<img width="371" height="147" alt="image" src="https://github.com/user-attachments/assets/ee9ff063-a9fe-4d40-8e46-e5a0c23c98dc" />
+![Top Bar Preview](assets/Top_bar_with_navigation.png)
 
 ### 📋 Task Card with Progress  
-<img width="367" height="197" alt="image" src="https://github.com/user-attachments/assets/b5891028-7e52-4c6b-bee5-19d268e796a2" />
+![Task Card Preview](assets/Task_card_with_preogress.png)
 
 ### 📌 Legend Dialog  
-<img width="357" height="492" alt="image" src="https://github.com/user-attachments/assets/d2c208cd-7b10-422b-b0f2-67d68905ec4f" />
+![Legend Dialog Preview](assets/legend_dialog.png)
 
 ---
 
