@@ -18,7 +18,7 @@ A modern Jetpack Compose-based weekly scheduling UI for Android, featuring dynam
 ## 🖼️ Screenshots
 
 ### 🗓️ Weekly Schedule Screen  
-<img width="416" height="701" alt="image" src="https://github.com/user-attachments/assets/d99548d1-fcc6-4a66-baf1-febe3d119494" />
+https://github.com/haileygovender/Scheduleview_jc/blob/main/assets/weekly_schedule_screen.png
 
 ### 📆 Top Bar with Navigation  
 <img width="371" height="147" alt="image" src="https://github.com/user-attachments/assets/ee9ff063-a9fe-4d40-8e46-e5a0c23c98dc" />
